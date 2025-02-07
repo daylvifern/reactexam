@@ -1,0 +1,17 @@
+.contactform{
+    border: 2px solid black;
+    width:40%;
+    height: 380px;
+    margin-top: 10%;
+    padding-top: 10px;
+
+ background-color: rgb(66, 66, 66);
+ color: aliceblue;
+   
+}
+input[type="text"],[type="email"],[type="submit"] {
+    width: 100%;
+    padding: 15px;
+    box-sizing: border-box; 
+   
+}
